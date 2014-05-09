@@ -1,0 +1,21 @@
+Itodosoft - 2014 
+___________________________________________
+
+Creado en GNU/nano 2.2.6
+Viernes 9 de mayo del 2014
+------------------------------------------
+Lista de deseos
+------------------------------------------
+
+1. Establecer lenguaje al aldo del servidor (Node)
+2. Añadir inicio de sesion y foro, al blog administracion de comentarios y puntaje.
+3. Escribir al menos un articulo semanal en el blog.
+4. Administracion de post.
+5. Pasturro tiene que modificar about.html ubicado en la raiz del proyecto y colocar su perfil informatico.
+6. Pensar  Tienda online Camaras, DVR etc.
+7. El blog sera parecido al de join, jona dev.
+8. Comprar arduino para empezar con la apps WifiSwitch.
+
+Nota: si militar no se da mañas de editar el html no sale en la pagina hahhahahahha
+
+
